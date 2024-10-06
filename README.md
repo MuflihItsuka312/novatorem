@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [![Spotify](http://localhost:5000/)](https://open.spotify.com/user/sayang)
+  [![Spotify](https://novatorem-seven-rose.vercel.app/)](https://open.spotify.com/user/sayang)
 </div>
 
 &nbsp;<div align="center">
@@ -12,7 +12,7 @@
 
 ## My Spotify Integration App
 
-Check it out [here](http://192.168.68.105:5000/).
+Check it out [here](https://novatorem-seven-rose.vercel.app/).
 
-![Spotify](http://192.168.68.105:5000/)
+![Spotify](https://novatorem-seven-rose.vercel.app/)
 

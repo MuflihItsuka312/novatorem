@@ -12,7 +12,7 @@
 
 ## My Spotify Integration App
 
-Check it out [here](http://localhost:5000/).
+Check it out [here](http://192.168.68.105:5000/).
 
-![Spotify](http://localhost:5000/)
+![Spotify](http://192.168.68.105:5000/)
 

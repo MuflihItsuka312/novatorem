@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [![Spotify](https://spotify-git-main-muflihitsuka312s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/sayang)
+  [![Spotify](https://novatorem-drab-three.vercel.app/api/spotify)](https://open.spotify.com/user/sayang)
 </div>
 
 &nbsp;<div align="center">

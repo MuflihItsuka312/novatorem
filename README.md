@@ -8,3 +8,6 @@
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
   [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
 </div>
+
+
+[![Spotify](https://githubspotify-0126cdc5ac55.herokuapp.com/)](https://open.spotify.com/user/Sayang)

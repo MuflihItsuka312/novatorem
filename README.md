@@ -10,4 +10,9 @@
 </div>
 
 
-[![Spotify](https://githubspotify-0126cdc5ac55.herokuapp.com/)](https://open.spotify.com/user/Sayang)
+## My Spotify Integration App
+
+Check it out [here](http://localhost:5000/).
+
+![Spotify](http://localhost:5000/)
+

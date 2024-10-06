@@ -16,3 +16,4 @@ Check it out [here](https://novatorem-seven-rose.vercel.app/).
 
 ![Spotify](https://novatorem-seven-rose.vercel.app/)
 
+[![Spotify](https://novatorem-kappa-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/sayang)

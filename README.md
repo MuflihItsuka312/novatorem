@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [![Spotify](https://spotify-git-main-muflihitsuka312s-projects.vercel.app/)](https://open.spotify.com/user/sayang)
+  [![Spotify](https://spotify-git-main-muflihitsuka312s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/sayang)
 </div>
 
 &nbsp;<div align="center">
@@ -12,8 +12,8 @@
 
 ## My Spotify Integration App
 
-Check it out [here](https://novatorem-seven-rose.vercel.app/).
+Check it out [here](https://novatorem-seven-rose.vercel.app/api/spotify).
 
-![Spotify](https://novatorem-seven-rose.vercel.app/)
+![Spotify](https://novatorem-seven-rose.vercel.app/api/spotify)
 
 [![Spotify](https://spotify-muflihitsuka312s-projects.vercel.app)](https://open.spotify.com/user/sayang)
